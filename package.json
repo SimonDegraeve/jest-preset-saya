@@ -15,7 +15,7 @@
     "saya"
   ],
   "scripts": {
-    "release": "kode release --skip-test"
+    "release": "kode release --skip-test true"
   },
   "devDependencies": {
     "kode": "^2.3.0"
