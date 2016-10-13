@@ -3,18 +3,11 @@
   "version": "1.1.0",
   "description": "An opinionated `jest` preset",
   "license": "MIT",
-  "author": {
-    "name": "Simon Degraeve",
-    "email": "simon.degraeve@gmail.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/simondegraeve/jest-preset-saya.git"
-  },
+  "author": "Simon Degrave <simon.degraeve@gmail.com>",
+  "repository": "github:SimonDegraeve/jest-preset-saya",
   "homepage": "https://github.com/SimonDegraeve/jest-preset-saya#readme",
-  "bugs": {
-    "url": "https://github.com/SimonDegraeve/jest-preset-saya/issues"
-  },
+  "bugs": "https://github.com/SimonDegraeve/jest-preset-saya/issues",
+
   "files": [
     "jest-preset.json"
   ],
@@ -27,7 +20,5 @@
   },
   "devDependencies": {
     "kode": "^2.4.1"
-  },
-  "readme": "ERROR: No README data found!",
-  "_id": "jest-preset-saya@1.0.0"
+  }
 }
