@@ -19,6 +19,6 @@
     "release": "kode release --skip-test true"
   },
   "devDependencies": {
-    "kode": "^2.4.1"
+    "kode": "^2.4.5"
   }
 }
