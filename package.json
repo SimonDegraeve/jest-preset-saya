@@ -1,13 +1,12 @@
 {
   "name": "jest-preset-saya",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An opinionated `jest` preset",
   "license": "MIT",
   "author": "Simon Degrave <simon.degraeve@gmail.com>",
   "repository": "github:SimonDegraeve/jest-preset-saya",
   "homepage": "https://github.com/SimonDegraeve/jest-preset-saya#readme",
   "bugs": "https://github.com/SimonDegraeve/jest-preset-saya/issues",
-
   "files": [
     "jest-preset.json"
   ],
