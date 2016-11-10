@@ -17,6 +17,9 @@
   "scripts": {
     "release": "kode release --skip-test true"
   },
+  "peerDependencies": {
+    "jest": "17.0.0"
+  },
   "devDependencies": {
     "kode": "^2.4.8"
   }
