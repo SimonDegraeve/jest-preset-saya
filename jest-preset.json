@@ -2,7 +2,7 @@
   "globals": {
     "__DEV__": true
   },
-  "clearMocks": true,
+  "resetMocks": true,
   "coverageDirectory": "node_modules/.coverage",
   "cacheDirectory": "node_modules/.cache",
   "testEnvironment": "node",
