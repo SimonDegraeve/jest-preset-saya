@@ -1,3 +1,10 @@
+<a name="1.1.2"></a>
+## [1.1.2](https://github.com/simondegraeve/jest-preset-saya/compare/v1.1.1...v1.1.2)
+> 2016-11-10
+
+* [4d2fe10](https://github.com/simondegraeve/jest-preset-saya/commit/4d2fe10) **Tweak:** Add jest as peer dependency
+* [f9a5737](https://github.com/simondegraeve/jest-preset-saya/commit/f9a5737) **Tweak:** Rename clearMocks to resetMocks (jest v17 compatibility)
+
 <a name="1.1.1"></a>
 ## [1.1.1](https://github.com/simondegraeve/jest-preset-saya/compare/v1.1.0...v1.1.1)
 > 2016-10-13
